@@ -1,7 +1,3 @@
-import numpy
-import opennsfw2
-from PIL import Image
-
 from roop.typing import Frame
 
 MAX_PROBABILITY = 0.85
